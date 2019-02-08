@@ -3,8 +3,8 @@
 ---
 Hey guys~ It is a **Chinese innercore mod** by Dexer and [SijDev](https://github.com/Sij-modpe). 
 ---
-    ##zh:这是一个关于工业，物理的一个Inner core mod，最主要的目的是为了使我们有一个更科学严谨的mc，并且加入了科学的趣味性和严谨性，使mc变得更加有趣##
-    ##en:This is an Inner Core mod about industry.The main goal is to give us a MC that will be more scientific and rigorous ,add scientificalness and strictness of science and make MC more fun.##
+    ## zh:这是一个关于工业，物理的一个Inner core mod，最主要的目的是为了使我们有一个更科学严谨的mc，并且加入了科学的趣味性和严谨性，使mc变得更加有趣
+    ## en:This is an Inner Core mod about industry.The main goal is to give us a MC that will be more scientific and rigorous ,add scientificalness and strictness of science and make MC more fun.
 ---
 本项目基于MIT开源协议开源
 This project is open source based on the MIT-license.
