@@ -4,10 +4,10 @@
 Hey guys~ It is a **Chinese innercore mod** by Dexer and [SijDev](https://github.com/Sij-modpe). 
 ---
 (具体功能说明)
-本项目基于MIT开源协议开源
 ---
->This project is open source based on the MIT-license.
-Permission is hereby granted, free of charge, to any person obtaining a copy
+本项目基于MIT开源协议开源
+This project is open source based on the MIT-license.
+>Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
